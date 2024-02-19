@@ -19,10 +19,10 @@
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: #111;
 
-$mainFont: 'Open Sans', sans-serif;
+$mainFont: 'Open Sans', sans-serif, 'Segoe UI Emoji';
 $linkColor: #e7ad52;
 $linkColorHover: lighten( $linkColor, 20% );
-$headingFont: 'Montserrat', Impact, sans-serif;
+$headingFont: 'Montserrat', Impact, sans-serif,'Segoe UI Emoji';
 $headingTextShadow: none;
 $headingLetterSpacing: -0.03em;
 $headingTextTransform: none;
