@@ -603,7 +603,7 @@ $controlsArrowAngleActive: 36deg;
 	right: 8px;
 	bottom: 8px;
 	z-index: 31;
-	font-family: Helvetica, sans-serif;
+	font-family: Helvetica, 'Segoe UI Emoji', sans-serif;
 	font-size: 12px;
 	line-height: 1;
 	color: #fff;
@@ -1397,7 +1397,7 @@ $controlsArrowAngleActive: 36deg;
 .reveal.rtl .slides h5,
 .reveal.rtl .slides h6 {
 	direction: rtl;
-	font-family: sans-serif;
+	font-family: sans-serif,'Segoe UI Emoji';
 }
 
 .reveal.rtl pre,
@@ -1735,7 +1735,7 @@ $notesWidthPercent: 25%;
 	overflow: auto;
 	box-sizing: border-box;
 	text-align: left;
-	font-family: Helvetica, sans-serif;
+	font-family: Helvetica,'Segoe UI Emoji', sans-serif;
 	-webkit-overflow-scrolling: touch;
 
 	.notes-placeholder {
