@@ -1,3 +1,8 @@
-theme: jekyll-theme-midnight
-title: EveSa's homepage
-description: Cours d'Outils de traitement de Corpus - PluriTAL
+title: Eve Sauvage
+description: CV
+theme: just-the-docs
+
+url: https://EveSa.github.io
+
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/EveSa.github.io
